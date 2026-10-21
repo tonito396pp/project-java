@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BTT2 {
     public static void main(String[] args) {
         // Khởi tạo Scanner để nhận dữ liệu từ bàn phím
         Scanner scanner = new Scanner(System.in);
